@@ -2,7 +2,7 @@
   "name": "select-js",
   "version": "1.1.0",
   "description": "A mini-library for DOM selection.",
-  "main": "select.js",
+  "main": "dist/select-js.js",
   "license": "MIT",
   "author": "Shanto Islam",
   "repository": {
@@ -14,5 +14,5 @@
   },
   "homepage": "https://shantoislamdev.web.app/select-js/",
   "keywords": ["dom", "selection", "javascript", "library", "select-js"],
-  "files": ["select.js", "README.md", "LICENSE"]
+  "files": ["dist/select-js.js", "dist/select-js.min.js", "LICENSE"]
 }
