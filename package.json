@@ -1,5 +1,5 @@
 {
-  "name": "selectJS",
+  "name": "selectjs",
   "version": "1.1.0",
   "description": "A mini-library for DOM selection.",
   "main": "select.js",
@@ -7,10 +7,10 @@
   "author": "Shanto Islam",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shanto-Islam/selectJS.git"
+    "url": "git+https://github.com/Shanto-Islam/select-js.git"
   },
   "bugs": {
-    "url": "https://github.com/Shanto-Islam/selectJS/issues"
+    "url": "https://github.com/Shanto-Islam/select-js/issues"
   },
-  "homepage": "https://shantoislamdev.web.app/selectJS/"
+  "homepage": "https://shantoislamdev.web.app/select-js/"
 }
