@@ -1,0 +1,40 @@
+{
+<<<<<<< HEAD
+  "name": "@shanto-islam/select-js",
+  "version": "1.1.2",
+  "description": "A mini-library for DOM selection.",
+  "main": "dist/select-js.min.js",
+=======
+  "name": "select-js",
+  "version": "1.1.0",
+  "description": "A mini-library for DOM selection.",
+  "main": "dist/select-js.js",
+>>>>>>> origin/main
+  "license": "MIT",
+  "author": "Shanto Islam",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shanto-Islam/select-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shanto-Islam/select-js/issues"
+  },
+  "homepage": "https://shantoislamdev.web.app/select-js/",
+<<<<<<< HEAD
+  "keywords": [
+    "dom",
+    "selection",
+    "javascript",
+    "library",
+    "select-js"
+  ],
+  "files": [
+    "dist/select-js.js",
+    "dist/select-js.min.js",
+    "LICENSE"
+  ]
+=======
+  "keywords": ["dom", "selection", "javascript", "library", "select-js"],
+  "files": ["dist/select-js.js", "dist/select-js.min.js", "LICENSE"]
+>>>>>>> origin/main
+}
