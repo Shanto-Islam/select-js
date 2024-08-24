@@ -1,5 +1,5 @@
 {
-  "name": "selectjs",
+  "name": "select-js",
   "version": "1.1.0",
   "description": "A mini-library for DOM selection.",
   "main": "select.js",
@@ -12,5 +12,7 @@
   "bugs": {
     "url": "https://github.com/Shanto-Islam/select-js/issues"
   },
-  "homepage": "https://shantoislamdev.web.app/select-js/"
+  "homepage": "https://shantoislamdev.web.app/select-js/",
+  "keywords": ["dom", "selection", "javascript", "library", "select-js"],
+  "files": ["select.js", "README.md", "LICENSE"]
 }
