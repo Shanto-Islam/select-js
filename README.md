@@ -43,9 +43,9 @@ You can include `select-js` directly in your project using a CDN:
 Include the `select-js` library in your HTML file and start selecting and manipulating DOM elements:
 
 ```html
-<script src="path/to/select-js.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@shanto-islam/select-js/dist/select-js.min.js"></script>
 <script>
-  // Select elements and chain methods for manipulation
+ // Select elements and chain methods for manipulation
   select('.my-class')
     .addClass('active')
     .setText('Hello, World!')
