@@ -1,3 +1,13 @@
+/**
+ * select-js - A mini-library for DOM selection.
+ * Copyright (c) 2024 Shanto Islam
+ *
+ * This software is licensed under the MIT License.
+ * See the full license text at https://github.com/Shanto-Islam/select-js/blob/main/LICENSE
+ *
+ * @license MIT
+ */
+
 const select = (type, context = document) => {
   if (typeof type !== 'string') {
     throw new Error('Selector must be a string.');
