@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 # select-js
-=======
-# Select.js
->>>>>>> origin/main
 
 [![npm version](https://badge.fury.io/js/%40shanto-islam%2Fselect-js.svg)](https://badge.fury.io/js/%40shanto-islam%2Fselect-js)
 
